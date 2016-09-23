@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1068520400032",
+    "firebase_url": "https://find-yourself-3cd1e.firebaseio.com",
+    "project_id": "find-yourself-3cd1e",
+    "storage_bucket": "find-yourself-3cd1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068520400032:android:e64675482d0c6f45",
+        "android_client_info": {
+          "package_name": "br.com.app.findyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068520400032-cho3q2e40ihqe7e7bl84ueg5m5d3qk44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXP483GPWdQbIWnjXm2-hLYmlkAMA5Cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Find Yourself</string>
+
+    <string name="facebook_app_id">1552339911729178</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+
+
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="btn_singin_facebook">Sing in with Facebook</string>
+    <string name="btn_singin_findyourself">Sing in with Find Yourself</string>
+    <string name="prompt_register">Register</string>
+    <string name="btn_register">Register</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Name</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_connect">Connect</string>
+    <string name="warn_network">There is no connection with internet!</string>
+    <string name="warn_firebase_profile">Your Profile has not been found!</string>
+    <string name="action_register_short">Register</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="warning_noplcaces_profile">There are no places for your profile!</string>
+    <string name="warning_request_invalid">The Type Action from request is not valid!</string>
+    <string name="fragment_food">Food</string>
+
+
+</resources>
